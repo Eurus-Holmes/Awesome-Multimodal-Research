@@ -20,6 +20,14 @@
 
 ## Related Datasets
 
-  - [GQA --- Visual Question Answering](https://cs.stanford.edu/people/dorarad/gqa/)
-  - [CMU MultimodalSDK --- Multimodal Sentiment Analysis](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+  - [CMU MultimodalSDK --- Affect Recognition and Multimodal Language](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+  - [AMHUSE --- Affect Recognition and Multimodal Language](http://amhuse.phuselab.di.unimi.it/)
   - [Multi30k Dataset --- Multimodal Machine Translation](https://github.com/multi30k/dataset)
+  - [VATEX --- Multimodal Machine Translation](http://vatex.org/main/index.html)
+  - [RecipeQA --- Language and Visual QA](https://hucvl.github.io/recipeqa/)
+  - [GQA --- Language and Visual QA](https://cs.stanford.edu/people/dorarad/gqa/)
+  - [CLEVR --- Language and Visual QA](https://github.com/facebookresearch/clevr-dataset-gen)
+  - [MELD --- Multimodal Dialog](https://affective-meld.github.io/)
+  - [CLEVR-Dialog --- Multimodal Dialog](https://github.com/satwikkottur/clevr-dialog)
+  - [Charades-Ego --- Media Description](https://allenai.org/plato/charades/)
+  - [MPII --- Media Description](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)
