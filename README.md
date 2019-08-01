@@ -3,3 +3,7 @@
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+## Research Papers
+
+  - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml)
