@@ -6,4 +6,4 @@
 
 ## Research Papers
 
-  - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml)
+  - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml) [![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?logo=github&label=Stars)](https://github.com/pliang279/awesome-multimodal-ml)
