@@ -6,7 +6,7 @@
 
 ## Research Papers
 
-  - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml) [![GitHub stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg?logo=github&label=Stars)](https://github.com/pliang279/awesome-multimodal-ml)
+  - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml) 
 
 
 ## Research Topics
@@ -16,3 +16,9 @@
   - [Multimodal Emotion Recognition](https://paperswithcode.com/task/multimodal-emotion-recognition)
   - [Multimodal Machine Translation](https://paperswithcode.com/task/multimodal-machine-translation)
   - [Multimodal Unsupervised Image-To-Image Translation](https://paperswithcode.com/task/multimodal-unsupervised-image-to-image)
+
+
+## Related Datasets
+
+  - [CMU MultimodalSDK --- Multimodal Sentiment Analysis](https://github.com/A2Zadeh/CMU-MultimodalSDK)
+  - [Multi30k Dataset --- Multimodal Machine Translation](https://github.com/multi30k/dataset)
