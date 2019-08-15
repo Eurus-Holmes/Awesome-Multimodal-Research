@@ -31,17 +31,17 @@ parser.add_argument('--keyword', type=str, default='Multimodal')  # Match the ke
 args = parser.parse_args()
 
 # get web context
-r = requests.get('http://openaccess.thecvf.com/CVPR2018.py')
+r = requests.get('http://openaccess.thecvf.com/CVPR2019.py')
 
 data = r.text
 # find all pdf links
 link_list = re.findall(r"(?<=href=\").+?pdf(?=\">pdf)|(?<=href=\').+?pdf(?=\">pdf)", data)
-name_list = re.findall(r"(?<=href=\").+?2018_paper.html\">.+?</a>", data)
+name_list = re.findall(r"(?<=href=\").+?2019_paper.html\">.+?</a>", data)
 
 cnt = 1
 num = len(link_list)
 # your local path to download pdf files
-localDir = './CVPR2018/{}/'.format(args.keyword)
+localDir = './CVPR2019/{}/'.format(args.keyword)
 if not os.path.exists(localDir):
     os.makedirs(localDir)
 while cnt < num:
@@ -69,7 +69,7 @@ while cnt < num:
 
     file_path = localDir + file_name + '.pdf'
     if os.path.exists(file_path):
-        print('File 【{}.pdf】 exists,skip downloading.'.format(file_name))
+        print('File [{}.pdf] exists,skip downloading.'.format(file_name))
         cnt = cnt + 1
         continue
     else:
