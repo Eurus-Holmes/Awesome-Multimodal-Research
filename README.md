@@ -7,6 +7,7 @@
 ## Research Papers
 
   - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml) 
+  - [Multimodal Machine Learning Reading List (Updated by Feiyang Chen)](https://github.com/multimodal-machine-learning/multimodal-ml-reading-list)
 
 
 * [Core Areas](#core-areas)
