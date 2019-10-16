@@ -49,6 +49,13 @@
   - [Multimodal Related --- from Papers With Code](https://paperswithcode.com/search?q=multimodal)
 
 
+# Research Team
+  - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
+  - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
+  - [NTU --- SenticNet Team](http://sentic.net/)
+  - [SenticNet GitHub](https://github.com/SenticNet)
+  
+
 ## Related Datasets
 
   - [CMU MultimodalSDK --- Affect Recognition and Multimodal Language](https://github.com/A2Zadeh/CMU-MultimodalSDK)
