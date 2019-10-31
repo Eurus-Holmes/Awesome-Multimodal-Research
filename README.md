@@ -49,7 +49,7 @@
   - [Multimodal Related --- from Papers With Code](https://paperswithcode.com/search?q=multimodal)
 
 
-# Research Team
+## Research Team
   - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
   - [NTU --- SenticNet Team](http://sentic.net/)
