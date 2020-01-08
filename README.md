@@ -9,8 +9,7 @@
   - [Reading List for Topics in Multimodal Machine Learning --- from CMU LTI&MLD](https://github.com/pliang279/awesome-multimodal-ml) 
 
 
-* [Research Papers](#research-papers)
-  * [Survey Papers](#survey-papers)
+* [Survey Papers](#survey-papers)
 * [Core Areas](#core-areas)
   * [Representation Learning](#representation-learning)
   * [Multimodal Fusion](#multimodal-fusion)
