@@ -731,6 +731,7 @@
   - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
   - [NTU --- SenticNet Team](http://sentic.net/)
   - [SenticNet GitHub](https://github.com/SenticNet)
+  - [MultiMT](https://multimt.github.io/)
   
 
 ## Related Datasets
