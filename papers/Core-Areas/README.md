@@ -1,4 +1,4 @@
-# Core Areas
+* [Core Areas](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas)
   * [Representation Learning](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Representation-Learning)
   * [Multimodal Fusion](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Multimodal-Fusion)
   * [Multimodal Alignment](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Multimodal-Alignment)
