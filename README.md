@@ -40,9 +40,9 @@
   * [Affect Recognition and Multimodal Language](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Affect-Recognition-and-Multimodal-Language)
   * [Healthcare](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Healthcare)
   * [Robotics](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Robotics)
-* [Workshops](#workshops)
-* [Tutorials](#tutorials)
-* [Courses](#courses)
+* [Workshops](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/workshops)
+* [Tutorials](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/tutorials)
+* [Courses](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/courses)
 
 
 ## Papers With Code
