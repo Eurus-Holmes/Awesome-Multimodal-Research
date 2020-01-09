@@ -1,4 +1,4 @@
-* [Survey Papers](#survey-papers)
+* [Survey Papers](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Survey-Papers)
 * [Core Areas](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas)
   * [Representation Learning](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Representation-Learning)
   * [Multimodal Fusion](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Multimodal-Fusion)
