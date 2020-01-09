@@ -1,4 +1,4 @@
-# Applications
+* [Applications](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications)
   * [Language and Visual QA](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Language-and-Visual-QA)
   * [Language Grounding in Vision](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Language-Grounding-in-Vision)
   * [Language Grouding in Navigation](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Language-Grouding-in-Navigation)
