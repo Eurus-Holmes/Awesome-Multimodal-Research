@@ -1,25 +1,4 @@
 # -*- coding:utf-8 -*- 
-__Author__ = "Feiyang Chen"
-__Time__ = '2019-08-14'
-__Title__ = 'Automatic crawling of Multimodal related papers Test'
-
-"""
- code is far away from bugs with the god animal protecting
-    I love animals. God bless you.
-              ┏┓      ┏┓
-            ┏┛┻━━━┛┻┓
-            ┃      ☃      ┃
-            ┃  ┳┛  ┗┳  ┃
-            ┃      ┻      ┃
-            ┗━┓      ┏━┛
-                ┃      ┗━━━┓
-                ┃ God Bless  ┣┓
-                ┃ Bug-Free!  ┏┛
-                ┗┓┓┏━┳┓┏┛
-                  ┃┫┫  ┃┫┫
-                  ┗┻┛  ┗┻┛
-"""
-
 import re
 import requests
 import urllib.request
