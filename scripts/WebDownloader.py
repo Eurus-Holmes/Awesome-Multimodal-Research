@@ -1,25 +1,4 @@
 # -*- coding:utf-8 -*- 
-__Author__ = "Feiyang Chen"
-__Time__ = '2020/1/8'
-__Title__ = 'WebDownloader'
-
-"""
- code is far away from bugs with the god animal protecting
-    I love animals. God bless you.
-              ┏┓      ┏┓
-            ┏┛┻━━━┛┻┓
-            ┃      ☃      ┃
-            ┃  ┳┛  ┗┳  ┃
-            ┃      ┻      ┃
-            ┗━┓      ┏━┛
-                ┃      ┗━━━┓
-                ┃ God Bless  ┣┓
-                ┃ Bug-Free!  ┏┛
-                ┗┓┓┏━┳┓┏┛
-                  ┃┫┫  ┃┫┫
-                  ┗┻┛  ┗┻┛
-"""
-
 import re
 from pprint import pprint
 import requests
