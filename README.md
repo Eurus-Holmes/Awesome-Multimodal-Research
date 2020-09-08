@@ -56,6 +56,7 @@
   - [NTU --- SenticNet Team](http://sentic.net/)
   - [SenticNet GitHub](https://github.com/SenticNet)
   - [MultiMT](https://multimt.github.io/)
+  - [Microsoft --- Multimodal AI](https://multimodalai.azurewebsites.net/)
   
 
 ## Related Datasets
