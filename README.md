@@ -55,6 +55,8 @@
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
 
+[Workshop on Multimodal Learning](https://mul-workshop.github.io/), CVPR 2020
+
 [Language & Vision with applications to Video Understanding](https://languageandvision.github.io/), CVPR 2020
 
 [International Challenge on Activity Recognition (ActivityNet)](http://activity-net.org/challenges/2020/), CVPR 2020
@@ -64,18 +66,6 @@
 [Towards Human-Centric Image/Video Synthesis, and the 4th Look Into Person (LIP) Challenge](https://vuhcs.github.io/), CVPR 2020
 
 [Visual Question Answering and Dialog](https://visualqa.org/workshop), CVPR 2020
-
-[Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
-
-[Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
-
-[Beyond Vision and Language: Integrating Real-World Knowledge](https://www.lantern.uni-saarland.de/), EMNLP 2019
-
-[The How2 Challenge: New Tasks for Vision & Language](https://srvk.github.io/how2-challenge/), ICML 2019
-
-
-
-
 
 
 ## Papers With Code
