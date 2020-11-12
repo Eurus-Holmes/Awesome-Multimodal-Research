@@ -1,4 +1,5 @@
 # Workshops
+[Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/), NeurIPS 2020
 
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
 
