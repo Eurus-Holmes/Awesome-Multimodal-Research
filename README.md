@@ -76,6 +76,10 @@
 
 [Large Scale Holistic Video Understanding](https://holistic-video-understanding.github.io/tutorials/cvpr2020.html), CVPR 2020
 
+[A Comprehensive Tutorial on Video Modeling](https://cvpr20-video.mxnet.io/)
+
+
+
 ## Papers With Code
 
   - [Multimodal Related --- from Papers With Code](https://paperswithcode.com/search?q=multimodal)
