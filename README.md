@@ -45,6 +45,29 @@
 * [Courses](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/courses)
 
 
+## Recent Workshop
+
+[Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/), NeurIPS 2020
+
+[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
+
+[Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
+
+[Visually Grounded Interaction and Language](https://vigilworkshop.github.io/), NeurIPS 2019, NeurIPS 2018
+
+[Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
+
+[Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
+
+[Beyond Vision and Language: Integrating Real-World Knowledge](https://www.lantern.uni-saarland.de/), EMNLP 2019
+
+[The How2 Challenge: New Tasks for Vision & Language](https://srvk.github.io/how2-challenge/), ICML 2019
+
+
+
+
+
+
 ## Papers With Code
 
   - [Multimodal Related --- from Papers With Code](https://paperswithcode.com/search?q=multimodal)
