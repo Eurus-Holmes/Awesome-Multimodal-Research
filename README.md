@@ -72,6 +72,8 @@
 
 [Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), CVPR 2020
 
+[Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/), CVPR 2020
+
 [Large Scale Holistic Video Understanding](https://holistic-video-understanding.github.io/tutorials/cvpr2020.html), CVPR 2020
 
 ## Papers With Code
