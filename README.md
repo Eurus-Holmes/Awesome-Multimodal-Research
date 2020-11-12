@@ -51,6 +51,8 @@
 
 [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/), NeurIPS 2020
 
+[NLP Beyond Text](https://sites.google.com/view/nlpbt-2020), EMNLP 2020
+
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
