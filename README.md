@@ -70,6 +70,8 @@
 
 ## Recent Tutorial
 
+[Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge)](https://sites.google.com/view/acl-2020-multi-modal-ie), ACL 2020
+
 [Recent Advances in Vision-and-Language Research](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), CVPR 2020
 
 [Neuro-Symbolic Visual Reasoning and Program Synthesis](http://nscv.csail.mit.edu/), CVPR 2020
