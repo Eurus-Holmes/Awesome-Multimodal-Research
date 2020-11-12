@@ -53,6 +53,8 @@
 
 [NLP Beyond Text](https://sites.google.com/view/nlpbt-2020), EMNLP 2020
 
+[International Challenge on Compositional and Multimodal Perception](https://camp-workshop.stanford.edu/), ECCV 2020
+
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
