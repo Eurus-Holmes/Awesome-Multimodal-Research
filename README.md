@@ -57,6 +57,8 @@
 
 [Multimodal Video Analysis Workshop and Moments in Time Challenge](https://sites.google.com/view/multimodalvideo-v2), ECCV 2020
 
+[Video Turing Test: Toward Human-Level Video Story Understanding](https://dramaqa.snu.ac.kr/Workshop/2020), ECCV 2020
+
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
