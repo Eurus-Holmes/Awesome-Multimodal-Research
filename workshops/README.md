@@ -1,9 +1,23 @@
 # Workshops
+[Visually Grounded Interaction and Language (ViGIL)](https://vigilworkshop.github.io/), NAACL 2021
+
 [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/), NeurIPS 2020
 
-[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020, ACL 2018
+[Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
+
+[Workshop on Multimodal Learning](https://mul-workshop.github.io/), CVPR 2020
+
+[Language & Vision with applications to Video Understanding](https://languageandvision.github.io/), CVPR 2020
+
+[International Challenge on Activity Recognition (ActivityNet)](http://activity-net.org/challenges/2020/), CVPR 2020
+
+[The End-of-End-to-End A Video Understanding Pentathlon](https://www.robots.ox.ac.uk/~vgg/challenges/video-pentathlon/), CVPR 2020
+
+[Towards Human-Centric Image/Video Synthesis, and the 4th Look Into Person (LIP) Challenge](https://vuhcs.github.io/), CVPR 2020
+
+[Visual Question Answering and Dialog](https://visualqa.org/workshop), CVPR 2020
 
 [Visually Grounded Interaction and Language](https://vigilworkshop.github.io/), NeurIPS 2019, NeurIPS 2018
 
