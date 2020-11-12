@@ -59,6 +59,8 @@
 
 [International Challenge on Activity Recognition (ActivityNet)](http://activity-net.org/challenges/2020/), CVPR 2020
 
+[The End-of-End-to-End A Video Understanding Pentathlon](https://www.robots.ox.ac.uk/~vgg/challenges/video-pentathlon/), CVPR 2020
+
 [Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
 
 [Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
