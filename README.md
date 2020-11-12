@@ -4,7 +4,7 @@
 ![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![prs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-> Organize based on [Paul Liang's repo: Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml), any suggestions are welcome! 
+> This repo is reorganized from [Paul Liang's repo: Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml), any suggestions are welcome! 
 
 
 ## Research Papers
