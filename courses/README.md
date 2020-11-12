@@ -1,4 +1,6 @@
 # Courses
+[Fall 2020@CMU 11-777, MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
+
 [CMU 11-777, Advanced Multimodal Machine Learning](https://piazza.com/cmu/fall2018/11777/resources)
 
 [CMU 16-785, Integrated Intelligence in Robotics: Vision, Language, and Planning](http://www.cs.cmu.edu/~jeanoh/16-785/)
