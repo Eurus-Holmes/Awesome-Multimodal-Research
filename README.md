@@ -80,15 +80,17 @@
 
 [Large Scale Holistic Video Understanding](https://holistic-video-understanding.github.io/tutorials/cvpr2020.html), CVPR 2020
 
-[A Comprehensive Tutorial on Video Modeling](https://cvpr20-video.mxnet.io/)
+[A Comprehensive Tutorial on Video Modeling](https://cvpr20-video.mxnet.io/), CVPR 2020
 
 
-## Papers With Code
+## Related: Code & Team & Dataset
+
+### Papers With Code
 
   - [Multimodal Related --- from Papers With Code](https://paperswithcode.com/search?q=multimodal)
 
 
-## Research Team
+### Research Team
   - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
   - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
   - [NTU --- SenticNet Team](http://sentic.net/)
@@ -97,7 +99,7 @@
   - [Microsoft --- Multimodal AI](https://multimodalai.azurewebsites.net/)
   
 
-## Related Datasets
+### Related Datasets
 
   - [CMU MultimodalSDK --- Affect Recognition and Multimodal Language](https://github.com/A2Zadeh/CMU-MultimodalSDK)
   - [AMHUSE --- Affect Recognition and Multimodal Language](http://amhuse.phuselab.di.unimi.it/)
