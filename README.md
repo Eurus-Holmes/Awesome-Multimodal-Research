@@ -55,6 +55,10 @@
 
 [Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
 
+[Language & Vision with applications to Video Understanding](https://languageandvision.github.io/), CVPR 2020
+
+[International Challenge on Activity Recognition (ActivityNet)](http://activity-net.org/challenges/2020/), CVPR 2020
+
 [Emergent Communication: Towards Natural Language](https://sites.google.com/view/emecom2019), NeurIPS 2019
 
 [Workshop on Multimodal Understanding and Learning for Embodied Applications](https://sites.google.com/view/mulea2019/home), ACM Multimedia 2019
