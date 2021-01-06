@@ -14,3 +14,4 @@
   * [Affect Recognition and Multimodal Language](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Affect-Recognition-and-Multimodal-Language)
   * [Healthcare](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Healthcare)
   * [Robotics](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Robotics)
+  * [Autonomous Driving](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Applications/Autonomous-Driving)
