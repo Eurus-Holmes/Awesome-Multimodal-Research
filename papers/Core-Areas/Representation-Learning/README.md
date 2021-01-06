@@ -1,5 +1,17 @@
 # Representation Learning
 
+[Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [[blog]](https://openai.com/blog/clip/) [[code]](https://github.com/openai/CLIP)
+
+[Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195), NeurIPS 2020 [[code]](https://github.com/zhegan27/VILLA)
+
+[Integrating Multimodal Information in Large Pretrained Transformers](https://arxiv.org/abs/1908.05787), ACL 2020
+
+[12-in-1: Multi-Task Vision and Language Representation Learning](https://arxiv.org/abs/1912.02315), CVPR 2020 [[code]](https://github.com/facebookresearch/vilbert-multi-task)
+
+[Watching the World Go By: Representation Learning from Unlabeled Videos](https://arxiv.org/abs/2003.07990), arXiv 2020
+
+[Learning Video Representations using Contrastive Bidirectional Transformer](https://arxiv.org/abs/1906.05743), arXiv 2019
+
 [Visual Concept-Metaconcept Learning](https://papers.nips.cc/paper/8745-visual-concept-metaconcept-learning.pdf), NeurIPS 2019 [[code]](http://vcml.csail.mit.edu/)
 
 [VL-BERT: Pre-training of Generic Visual-Linguistic Representations](https://arxiv.org/abs/1908.08530), arXiv 2019 [[code]](https://github.com/jackroos/VL-BERT)
