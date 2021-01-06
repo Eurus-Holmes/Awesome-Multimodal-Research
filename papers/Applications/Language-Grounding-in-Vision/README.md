@@ -1,5 +1,15 @@
 # Language Grounding in Vision
 
+[The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/abs/2005.04790), NeurIPS 2020 [[code]](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)
+
+[Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
+
+[What Does BERT with Vision Look At?](https://www.aclweb.org/anthology/2020.acl-main.469/), ACL 2020
+
+[Visual Grounding in Video for Unsupervised Word Translation](https://arxiv.org/abs/2003.05078), CVPR 2020 [[code]](https://github.com/gsig/visual-grounding)
+
+[VIOLIN: A Large-Scale Dataset for Video-and-Language Inference](https://arxiv.org/abs/2003.11618), CVPR 2020 [[code]](https://github.com/jimmy646/violin)
+
 [Grounded Video Description](https://arxiv.org/abs/1812.06587), CVPR 2019
 
 [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/abs/1811.10652), CVPR 2019
