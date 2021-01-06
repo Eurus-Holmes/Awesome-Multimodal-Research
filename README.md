@@ -45,6 +45,12 @@
 * [Courses](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/courses)
 
 
+## News
+
+**[01/2021] OpenAI:** *We’ve developed two neural networks which have learned by associating text and images. CLIP maps images into categories described in text, and DALL-E creates new images, like this, from text. A step toward systems with deeper understanding of the world. https://openai.com/multimodal/*
+
+
+
 ## Recent Workshop
 
 [Visually Grounded Interaction and Language (ViGIL)](https://vigilworkshop.github.io/), NAACL 2021
