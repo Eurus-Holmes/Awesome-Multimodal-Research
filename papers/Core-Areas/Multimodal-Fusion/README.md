@@ -1,5 +1,11 @@
 # Multimodal Fusion
 
+[Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://arxiv.org/abs/2010.10802), NeurIPS 2020 [[code]](https://github.com/itaigat/removing-bias-in-multi-modal-classifiers)
+
+[Deep Multimodal Fusion by Channel Exchanging](https://arxiv.org/abs/2011.05005?context=cs.LG), NeurIPS 2020 [[code]](https://github.com/yikaiw/CEN)
+
+[What Makes Training Multi-Modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681), CVPR 2020 [[code]](https://github.com/facebookresearch/VMZ)
+
 [Dynamic Fusion for Multimodal Data](https://arxiv.org/abs/1911.03821), arXiv 2019
 
 [Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling](https://papers.nips.cc/paper/9381-deep-multimodal-multilinear-fusion-with-high-order-polynomial-pooling), NeurIPS 2019
