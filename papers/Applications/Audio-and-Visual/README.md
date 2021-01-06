@@ -1,5 +1,9 @@
 # Audio and Visual
 
+[Music Gesture for Visual Sound Separation](https://arxiv.org/abs/2004.09476), CVPR 2020
+
+[Co-Compressing and Unifying Deep CNN Models for Efficient Human Face and Speaker Recognition](http://openaccess.thecvf.com/content_CVPRW_2019/papers/MULA/Wan_Co-Compressing_and_Unifying_Deep_CNN_Models_for_Efficient_Human_Face_CVPRW_2019_paper.pdf), CVPRW 2019
+
 [Learning Individual Styles of Conversational Gesture](https://arxiv.org/abs/1906.04160), CVPR 2019 [[code]](http://people.eecs.berkeley.edu/~shiry/speech2gesture)
 
 [Capture, Learning, and Synthesis of 3D Speaking Styles](https://ps.is.tuebingen.mpg.de/uploads_file/attachment/attachment/510/paper_final.pdf), CVPR 2019 [[code]](https://github.com/TimoBolkart/voca)
