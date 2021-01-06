@@ -12,3 +12,4 @@
   * [Language Models](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Language-Models)
   * [Adversarial Attacks](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Adversarial-Attacks)
   * [Few-Shot Learning](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Few-Shot-Learning)
+  * [Bias and Fairness](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Core-Areas/Bias-and-Fairness)
