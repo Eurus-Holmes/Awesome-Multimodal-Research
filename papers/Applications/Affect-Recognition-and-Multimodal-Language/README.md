@@ -1,5 +1,9 @@
 # Affect Recognition and Multimodal Language
 
+[End-to-end Facial and Physiological Model for Affective Computing and Applications](https://arxiv.org/abs/1912.04711), arXiv 2019
+
+[Affective Computing for Large-Scale Heterogeneous Multimedia Data: A Survey](https://arxiv.org/abs/1911.05609), ACM TOMM 2019
+
 [Towards Multimodal Sarcasm Detection (An Obviously_Perfect Paper)](https://arxiv.org/abs/1906.01815), ACL 2019 [[code]](https://github.com/soujanyaporia/MUStARD)
 
 [Multimodal Language Analysis with Recurrent Multistage Fusion](https://arxiv.org/abs/1808.03920), EMNLP 2018
