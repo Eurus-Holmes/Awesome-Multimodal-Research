@@ -55,6 +55,8 @@
 
 ## Recent Workshop
 
+[Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/), NAACL 2021
+
 [Visually Grounded Interaction and Language (ViGIL)](https://vigilworkshop.github.io/), NAACL 2021
 
 [Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/), NeurIPS 2020
@@ -68,8 +70,6 @@
 [Video Turing Test: Toward Human-Level Video Story Understanding](https://dramaqa.snu.ac.kr/Workshop/2020), ECCV 2020
 
 [Grand Challenge and Workshop on Human Multimodal Language](http://multicomp.cs.cmu.edu/acl2020multimodalworkshop/), ACL 2020
-
-[Advances in Language and Vision Research](https://alvr-workshop.github.io/), ACL 2020
 
 [Workshop on Multimodal Learning](https://mul-workshop.github.io/), CVPR 2020
 
@@ -113,7 +113,7 @@
   - [SenticNet GitHub](https://github.com/SenticNet)
   - [MultiMT](https://multimt.github.io/)
   - [Microsoft --- Multimodal AI](https://multimodalai.azurewebsites.net/)
-  
+
 
 ### Related Datasets
 
