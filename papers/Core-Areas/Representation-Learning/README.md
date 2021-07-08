@@ -1,5 +1,7 @@
 # Representation Learning
 
+[Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/pdf/2103.16110.pdf), CVPR 2021 [[code](https://github.com/mczhuge/Kaleido-BERT)]
+
 [Learning Transferable Visual Models From Natural Language Supervision](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language.pdf), arXiv 2020 [[blog]](https://openai.com/blog/clip/) [[code]](https://github.com/openai/CLIP)
 
 [Large-Scale Adversarial Training for Vision-and-Language Representation Learning](https://arxiv.org/abs/2006.06195), NeurIPS 2020 [[code]](https://github.com/zhegan27/VILLA)
