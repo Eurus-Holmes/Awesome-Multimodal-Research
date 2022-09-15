@@ -1,5 +1,7 @@
 # Language and Visual QA
 
+[TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://arxiv.org/abs/2208.01813), arXiv 2022 [[code]](https://github.com/HenryJunW/TAG)
+
 [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/abs/1911.06258), CVPR 2020
 
 [Interactive Language Learning by Question Answering](https://arxiv.org/abs/1908.10909), EMNLP 2019 [[code]](https://github.com/xingdi-eric-yuan/qait_public)
