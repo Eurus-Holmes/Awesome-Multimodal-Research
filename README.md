@@ -49,7 +49,11 @@
 
 ## News
 
-**[01/2021] OpenAI:** *We’ve developed two neural networks which have learned by associating text and images. [CLIP](https://openai.com/blog/clip/) maps images into categories described in text, and [DALL-E](https://openai.com/blog/dall-e/) creates new images, like this, from text. A step toward systems with deeper understanding of the world. https://openai.com/multimodal/*
+**[04/2022] OpenAI:** *[DALL·E 2](https://arxiv.org/pdf/2204.06125.pdf) is a new AI system that can create realistic images and art from a description in natural language. https://openai.com/dall-e-2/*
+
+**[03/2021] OpenAI:** *[Multimodal Neurons](https://distill.pub/2021/multimodal-neurons/) in Artificial Neural Networks, which may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn. https://openai.com/blog/multimodal-neurons/*
+
+**[01/2021] OpenAI:** *[CLIP](https://openai.com/blog/clip/) maps images into categories described in text, and [DALL-E](https://openai.com/blog/dall-e/) creates new images from text. A step toward systems with deeper understanding of the world. https://openai.com/multimodal/*
 
 
 
