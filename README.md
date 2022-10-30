@@ -49,6 +49,8 @@
 
 ## News
 
+**[08/2022] MSR:** *[Multimodal Pretraining](https://github.com/microsoft/unilm#multimodal-x--language): [BEiT-3](https://arxiv.org/abs/2208.10442) is a general-purpose multimodal foundation model, which achieves state-of-the-art transfer performance on both vision and vision-language tasks. https://github.com/microsoft/unilm/tree/master/beit*
+
 **[04/2022] OpenAI:** *[DALL·E 2](https://arxiv.org/pdf/2204.06125.pdf) is a new AI system that can create realistic images and art from a description in natural language. https://openai.com/dall-e-2/*
 
 **[03/2021] OpenAI:** *[Multimodal Neurons](https://distill.pub/2021/multimodal-neurons/) in Artificial Neural Networks, which may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn. https://openai.com/blog/multimodal-neurons/*
