@@ -49,6 +49,10 @@
 
 ## News
 
+**[03/2023] OpenAI:** *[GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. https://openai.com/research/gpt-4*
+
+**[02/2023] MSR:** *[Kosmos-1](https://arxiv.org/pdf/2302.14045.pdf) is a multimodal large language model (MLLM) that is capable of perceiving multimodal input, following instructions, and performing in-context learning for not only language tasks but also multimodal tasks. https://github.com/microsoft/unilm#llm--mllm-multimodal-llm*
+
 **[08/2022] MSR:** *[Multimodal Pretraining](https://github.com/microsoft/unilm#multimodal-x--language): [BEiT-3](https://arxiv.org/abs/2208.10442) is a general-purpose multimodal foundation model, which achieves state-of-the-art transfer performance on both vision and vision-language tasks. https://github.com/microsoft/unilm/tree/master/beit*
 
 **[04/2022] OpenAI:** *[DALL·E 2](https://arxiv.org/pdf/2204.06125.pdf) is a new AI system that can create realistic images and art from a description in natural language. https://openai.com/dall-e-2/*
@@ -105,32 +109,3 @@
 [A Comprehensive Tutorial on Video Modeling](https://cvpr20-video.mxnet.io/), CVPR 2020
 
 
-## Related: Code & Team & Dataset
-
-### Papers With Code
-
-  - [Multimodal Related --- from Papers With Code](https://paperswithcode.com/search?q=multimodal)
-
-
-### Research Team
-  - [CMU --- MultiComp Lab](http://multicomp.cs.cmu.edu/)
-  - [MIT --- SYNTHETIC INTELLIGENCE LABORATORY](http://synthintel.org/)
-  - [NTU --- SenticNet Team](http://sentic.net/)
-  - [SenticNet GitHub](https://github.com/SenticNet)
-  - [MultiMT](https://multimt.github.io/)
-  - [Microsoft --- Multimodal AI](https://multimodalai.azurewebsites.net/)
-
-
-### Related Datasets
-
-  - [CMU MultimodalSDK --- Affect Recognition and Multimodal Language](https://github.com/A2Zadeh/CMU-MultimodalSDK)
-  - [AMHUSE --- Affect Recognition and Multimodal Language](http://amhuse.phuselab.di.unimi.it/)
-  - [Multi30k Dataset --- Multimodal Machine Translation](https://github.com/multi30k/dataset)
-  - [VATEX --- Multimodal Machine Translation](http://vatex.org/main/index.html)
-  - [MELD --- Multimodal Dialog](https://affective-meld.github.io/)
-  - [CLEVR-Dialog --- Multimodal Dialog](https://github.com/satwikkottur/clevr-dialog)
-  - [Charades-Ego --- Media Description](https://allenai.org/plato/charades/)
-  - [MPII --- Media Description](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/vision-and-language/mpii-movie-description-dataset/)
-  - [RecipeQA --- Language and Visual QA](https://hucvl.github.io/recipeqa/)
-  - [GQA --- Language and Visual QA](https://cs.stanford.edu/people/dorarad/gqa/)
-  - [CLEVR --- Language and Visual QA](https://github.com/facebookresearch/clevr-dataset-gen)
