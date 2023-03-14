@@ -7,6 +7,31 @@
 > This repo is reorganized from [Paul Liang's repo: Reading List for Topics in Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml), feel free to raise pull requests! 
 
 
+## News
+
+**[03/2023] OpenAI:** *[GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. https://openai.com/research/gpt-4*
+
+**[03/2023] Google Research:** *[PaLM-E](https://palm-e.github.io/assets/palm-e.pdf) is a new generalist robotics model that overcomes these issues by transferring knowledge from varied visual and language domains to a robotics system. https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html*
+
+**[03/2023] OpenAI:** *[ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), developers can now integrate ChatGPT and Whisper models into their apps and products through API. https://openai.com/blog/introducing-chatgpt-and-whisper-apis*
+
+**[02/2023] MSR:** *[Kosmos-1](https://arxiv.org/pdf/2302.14045.pdf) is a multimodal large language model (MLLM) that is capable of perceiving multimodal input, following instructions, and performing in-context learning for not only language tasks but also multimodal tasks. https://github.com/microsoft/unilm#llm--mllm-multimodal-llm*
+
+**[01/2023] Google Research:** *[2022 & beyond: Language, vision and generative models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html), a post of a series in which researchers across Google will highlight some exciting progress in 2022 and present the vision for 2023 and beyond. https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html*
+
+**[11/2022] OpenAI:** *[ChatGPT](https://chat.openai.com/chat) is a sibling model to [InstructGPT](https://openai.com/research/instruction-following), which is trained to follow an instruction in a prompt and provide a detailed response. https://openai.com/blog/chatgpt*
+
+**[08/2022] MSR:** *[Multimodal Pretraining](https://github.com/microsoft/unilm#multimodal-x--language): [BEiT-3](https://arxiv.org/abs/2208.10442) is a general-purpose multimodal foundation model, which achieves state-of-the-art transfer performance on both vision and vision-language tasks. https://github.com/microsoft/unilm/tree/master/beit*
+
+**[04/2022] OpenAI:** *[DALL·E 2](https://arxiv.org/pdf/2204.06125.pdf) is a new AI system that can create realistic images and art from a description in natural language. https://openai.com/dall-e-2/*
+
+**[05/2021] Google:** *[MuM](https://blog.google/products/search/introducing-mum/), a new AI milestone for understanding information. https://blog.google/products/search/introducing-mum/*
+
+**[03/2021] OpenAI:** *[Multimodal Neurons](https://distill.pub/2021/multimodal-neurons/) in Artificial Neural Networks, which may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn. https://openai.com/blog/multimodal-neurons/*
+
+**[01/2021] OpenAI:** *[CLIP](https://openai.com/blog/clip/) maps images into categories described in text, and [DALL-E](https://openai.com/blog/dall-e/) creates new images from text. A step toward systems with deeper understanding of the world. https://openai.com/multimodal/*
+
+
 ## Research Papers
 
 * [Survey Papers](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/papers/Survey-Papers)
@@ -45,28 +70,6 @@
 * [Workshops](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/workshops)
 * [Tutorials](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/tutorials)
 * [Courses](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research/tree/master/courses)
-
-
-## News
-
-**[03/2023] OpenAI:** *[GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. https://openai.com/research/gpt-4*
-
-**[03/2023] Google Research:** *[PaLM-E](https://palm-e.github.io/assets/palm-e.pdf) is a new generalist robotics model that overcomes these issues by transferring knowledge from varied visual and language domains to a robotics system. https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html*
-
-**[02/2023] MSR:** *[Kosmos-1](https://arxiv.org/pdf/2302.14045.pdf) is a multimodal large language model (MLLM) that is capable of perceiving multimodal input, following instructions, and performing in-context learning for not only language tasks but also multimodal tasks. https://github.com/microsoft/unilm#llm--mllm-multimodal-llm*
-
-**[01/2023] Google Research:** *[2022 & beyond: Language, vision and generative models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html), a post of a series in which researchers across Google will highlight some exciting progress in 2022 and present the vision for 2023 and beyond. https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html*
-
-**[08/2022] MSR:** *[Multimodal Pretraining](https://github.com/microsoft/unilm#multimodal-x--language): [BEiT-3](https://arxiv.org/abs/2208.10442) is a general-purpose multimodal foundation model, which achieves state-of-the-art transfer performance on both vision and vision-language tasks. https://github.com/microsoft/unilm/tree/master/beit*
-
-**[04/2022] OpenAI:** *[DALL·E 2](https://arxiv.org/pdf/2204.06125.pdf) is a new AI system that can create realistic images and art from a description in natural language. https://openai.com/dall-e-2/*
-
-**[05/2021] Google:** *[MuM](https://blog.google/products/search/introducing-mum/), a new AI milestone for understanding information. https://blog.google/products/search/introducing-mum/*
-
-**[03/2021] OpenAI:** *[Multimodal Neurons](https://distill.pub/2021/multimodal-neurons/) in Artificial Neural Networks, which may explain CLIP’s accuracy in classifying surprising visual renditions of concepts, and is also an important step toward understanding the associations and biases that CLIP and similar models learn. https://openai.com/blog/multimodal-neurons/*
-
-**[01/2021] OpenAI:** *[CLIP](https://openai.com/blog/clip/) maps images into categories described in text, and [DALL-E](https://openai.com/blog/dall-e/) creates new images from text. A step toward systems with deeper understanding of the world. https://openai.com/multimodal/*
-
 
 
 ## Recent Workshop
@@ -121,5 +124,6 @@ Multimodal workshops: [Multimodal Learning and Applications](https://mula-worksh
 [Large Scale Holistic Video Understanding](https://holistic-video-understanding.github.io/tutorials/cvpr2020.html), CVPR 2020
 
 [A Comprehensive Tutorial on Video Modeling](https://cvpr20-video.mxnet.io/), CVPR 2020
+
 
 
