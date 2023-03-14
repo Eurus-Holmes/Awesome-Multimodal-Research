@@ -65,6 +65,12 @@
 
 ## Recent Workshop
 
+[Social Intelligence in Humans and Robots](https://social-intelligence-human-ai.github.io/), ICRA 2021
+
+[LANTERN 2021](https://www.lantern.uni-saarland.de/2021/): The Third Workshop Beyond Vision and LANguage: inTEgrating Real-world kNowledge, EACL 2021
+
+Multimodal workshops: [Multimodal Learning and Applications](https://mula-workshop.github.io/), [Sight and Sound](http://sightsound.org/), [Visual Question Answering](https://visualqa.org/workshop), [Embodied AI](https://embodied-ai.org/), [Language for 3D Scenes](http://language3dscenes.github.io/), CVPR 2021
+
 [Advances in Language and Vision Research (ALVR)](https://alvr-workshop.github.io/), NAACL 2021
 
 [Visually Grounded Interaction and Language (ViGIL)](https://vigilworkshop.github.io/), NAACL 2021
@@ -95,6 +101,8 @@
 
 
 ## Recent Tutorial
+
+[Tutorials on Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/cvpr2022/), CVPR 2022 && NAACL 2022
 
 [Multi-modal Information Extraction from Text, Semi-structured, and Tabular Data on the Web (Cutting-edge)](https://sites.google.com/view/acl-2020-multi-modal-ie), ACL 2020
 
