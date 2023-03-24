@@ -9,6 +9,11 @@
 
 ## News
 
+**[03/2023] OpenAI:** *[ChatGPT plugins](https://platform.openai.com/docs/plugins/introduction) are tools designed specifically for language models with safety as a core principle, and help ChatGPT access up-to-date information, run computations, or use third-party services. https://openai.com/blog/chatgpt-plugins*
+> *"We’re also hosting two plugins ourselves, a [web browser](https://openai.com/blog/chatgpt-plugins#browsing) and [code interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter). We’ve also open-sourced the code for a knowledge base [retrieval plugin](https://github.com/openai/chatgpt-retrieval-plugin), to be self-hosted by any developer with information with which they’d like to augment ChatGPT."*
+
+**[03/2023] Google Research:** *[Bard](https://blog.google/technology/ai/try-bard/) is an early experiment that lets you collaborate with generative AI, powered by a research large language model (LLM), specifically a lightweight and optimized version of LaMDA. https://bard.google.com/*
+
 **[03/2023] OpenAI:** *[GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less capable than humans in many real-world scenarios, exhibits human-level performance on various professional and academic benchmarks. https://openai.com/research/gpt-4*
 
 **[03/2023] Google Research:** *[PaLM-E](https://palm-e.github.io/assets/palm-e.pdf) is a new generalist robotics model that overcomes these issues by transferring knowledge from varied visual and language domains to a robotics system. https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html*
