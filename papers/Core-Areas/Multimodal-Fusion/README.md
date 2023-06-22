@@ -1,5 +1,7 @@
 # Multimodal Fusion
 
+[VMLoc: Variational Fusion For Learning-Based Multimodal Camera Localization]( https://arxiv.org/abs/2003.07289), AAAI 2021
+
 [Fusion Models for Improved Visual Captioning](https://arxiv.org/abs/2010.15251), MMDLCA-ICPR 2021
 
 [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://arxiv.org/abs/2010.10802), NeurIPS 2020 [[code]](https://github.com/itaigat/removing-bias-in-multi-modal-classifiers)
