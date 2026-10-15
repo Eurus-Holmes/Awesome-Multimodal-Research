@@ -1,5 +1,7 @@
 # Multimodal Dialog
 
+[OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762), arXiv 2026 [[code]](https://github.com/MCG-NJU/OneStreamer)
+
 [Two Causal Principles for Improving Visual Dialog](https://arxiv.org/abs/1911.10496), CVPR 2020
 
 [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://arxiv.org/abs/1810.02508), ACL 2019 [[code]](http://affective-meld.github.io/)
