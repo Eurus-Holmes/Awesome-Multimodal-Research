@@ -1,5 +1,9 @@
 # Language and Visual QA
 
+[VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935), arXiv 2026 [[code]](https://github.com/MCG-NJU/VideoChat3)
+
+[Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224), ICML 2026 [[code]](https://github.com/MCG-NJU/Video-o3)
+
 [TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://arxiv.org/abs/2208.01813), arXiv 2022 [[code]](https://github.com/HenryJunW/TAG)
 
 [Iterative Answer Prediction with Pointer-Augmented Multimodal Transformers for TextVQA](https://arxiv.org/abs/1911.06258), CVPR 2020

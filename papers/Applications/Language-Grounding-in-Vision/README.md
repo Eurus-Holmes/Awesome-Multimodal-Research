@@ -1,5 +1,9 @@
 # Language Grounding in Vision
 
+[TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423), arXiv 2026 [[code]](https://github.com/MCG-NJU/TimeLens2)
+
+[VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615), arXiv 2026 [[code]](https://github.com/MCG-NJU/VideoJev)
+
 [The Hateful Memes Challenge: Detecting Hate Speech in Multimodal Memes](https://arxiv.org/abs/2005.04790), NeurIPS 2020 [[code]](https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/)
 
 [Grounded Language Learning Fast and Slow](https://arxiv.org/abs/2009.01719), arXiv 2020
